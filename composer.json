@@ -1,5 +1,5 @@
 {
-    "name": "thinkcmf/thinkcmf",
+    "name": "catman/thinkcmf",
     "description": "ThinkCMF based on ThinkPHP 5.1 , it is a free and open source Content Management Framework(CMF)",
     "type": "project",
     "keywords": [
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "thinkcmf",
-            "email": "catman@thinkcmf.com"
+            "name": "catman",
+            "email": "catman@catman.com"
         }
     ],
     "require": {
